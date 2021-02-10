@@ -1,0 +1,406 @@
+.lumesse-namespaced-prefix-class {
+  padding: 0;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+.lumesse-namespaced-prefix-class h1 {
+  color: #78b928;
+  font-size: 34px;
+}
+.lumesse-namespaced-prefix-class h2 {
+  color: #444;
+  font-size: 24px;
+}
+.lumesse-namespaced-prefix-class h3 {
+  color: #444;
+  font-size: 24px;
+}
+.lumesse-namespaced-prefix-class .form-control {
+  border: 2px solid #ddd;
+  background-color: #FFF;
+  color: #666;
+  border-radius: 0;
+}
+.lumesse-namespaced-prefix-class .form-control:focus,
+.lumesse-namespaced-prefix-class .form-control:active {
+  box-shadow: none;
+  border: 2px solid #78b928;
+}
+.lumesse-namespaced-prefix-class .has-success .form-control,
+.lumesse-namespaced-prefix-class .has-success .form-control:focus {
+  box-shadow: none;
+  border: 2px solid #78b928;
+}
+.lumesse-namespaced-prefix-class .has-warning .form-control,
+.lumesse-namespaced-prefix-class .has-error .form-control,
+.lumesse-namespaced-prefix-class .has-warning .form-control:focus,
+.lumesse-namespaced-prefix-class .has-error .form-control:focus {
+  box-shadow: none;
+  border: 2px solid #f18700;
+}
+.lumesse-namespaced-prefix-class .btn-default {
+  border-radius: 0;
+}
+.lumesse-namespaced-prefix-class .job_agent,
+.lumesse-namespaced-prefix-class .job_agent:active,
+.lumesse-namespaced-prefix-class .job_agent:focus,
+.lumesse-namespaced-prefix-class .btn-primary,
+.lumesse-namespaced-prefix-class .btn-primary:active,
+.lumesse-namespaced-prefix-class .btn-primary:focus,
+.lumesse-namespaced-prefix-class .pagination > .active > a,
+.lumesse-namespaced-prefix-class .pagination > .active > a:focus,
+.lumesse-namespaced-prefix-class .pagination > li:last-child > a,
+.lumesse-namespaced-prefix-class .btn-default,
+.lumesse-namespaced-prefix-class .btn-default:active,
+.lumesse-namespaced-prefix-class .btn-default:focus,
+.lumesse-namespaced-prefix-class .pagination > li > a,
+.lumesse-namespaced-prefix-class .pagination > li > span .pagination > li > a:focus,
+.lumesse-namespaced-prefix-class .pagination > li > span:focus {
+  color: #fff;
+  background-color: #444;
+  border-color: #444;
+  border-radius: 0px;
+  font-weight: normal;
+  font-size: 14px;
+  transition: all .5s ease;
+  cursor: pointer;
+}
+.lumesse-namespaced-prefix-class .pagination > li:first-child > a,
+.lumesse-namespaced-prefix-class .pagination > li:first-child > span {
+  border-bottom-left-radius: 0px;
+  border-top-left-radius: 0px;
+}
+.lumesse-namespaced-prefix-class .btn-primary:hover,
+.lumesse-namespaced-prefix-class .pagination > .active > a:hover,
+.lumesse-namespaced-prefix-class .btn-default:hover,
+.lumesse-namespaced-prefix-class .btn-success,
+.lumesse-namespaced-prefix-class .btn.btn-lg.btn-success.valid,
+.lumesse-namespaced-prefix-class .pagination > li > a:hover,
+.lumesse-namespaced-prefix-class .pagination > li > span:hover {
+  background-color: #78b928;
+  color: #FFF;
+  border-radius: 0px;
+  border-color: #78b928;
+  cursor: pointer;
+  transition: all .5s ease;
+}
+.lumesse-namespaced-prefix-class a {
+  color: #444;
+  transition: all .5s ease;
+}
+.lumesse-namespaced-prefix-class a:hover {
+  color: #78b928;
+  transition: all .5s ease;
+  text-decoration: none;
+}
+.lumesse-namespaced-prefix-class .search-criteria div,
+.lumesse-namespaced-prefix-class .number-of-jobs {
+  color: #78b928;
+  font-weight: bold;
+}
+.lumesse-namespaced-prefix-class .badge {
+  background-color: #78b928;
+}
+.lumesse-namespaced-prefix-class [data-lumesse-jd-action="print"],
+.lumesse-namespaced-prefix-class .at4-share.addthis_32x32_style.atss.atss-right.addthis-animated.slideInRight,
+.lumesse-namespaced-prefix-class .dl-horizontal.jdesc-criteria {
+  display: none;
+}
+.lumesse-namespaced-prefix-class #lumesseJobDetailWidget div[role=navigation] {
+  margin: 60px 0px 80px 0px;
+}
+.lumesse-namespaced-prefix-class .jdesc #silk-content {
+  margin-top: 20px;
+}
+.lumesse-namespaced-prefix-class .jdesc .img-responsive.lumesse-image-library {
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.lumesse-namespaced-prefix-class .strapLine {
+  font-family: Arial, sans-serif;
+  font-weight: normal;
+  font-size: 34px;
+  color: #444;
+  overflow-wrap: break-word;
+  padding-right: 10px;
+}
+.lumesse-namespaced-prefix-class .dasKannIchBei {
+  font-family: Arial, sans-serif;
+  font-weight: normal;
+  font-size: 34px;
+  color: #78b928;
+  overflow-wrap: break-word;
+}
+.lumesse-namespaced-prefix-class h2.sindSieDas {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 21px;
+  margin-bottom: 0px;
+}
+.lumesse-namespaced-prefix-class .jdesc .job-title {
+  padding-top: 10px;
+  margin-top: 0px;
+  font-weight: bold;
+}
+.lumesse-namespaced-prefix-class h2.lumesse-section-header {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 22px;
+}
+.lumesse-namespaced-prefix-class .lumesse-section-header-1::before,
+.lumesse-namespaced-prefix-class .lumesse-section-header-2::before,
+.lumesse-namespaced-prefix-class .lumesse-section-header-3::before,
+.lumesse-namespaced-prefix-class .lumesse-section-header-4::before {
+  content: '';
+  height: 45px;
+  width: 45px;
+  background-repeat: no-repeat;
+  margin-right: 15px;
+  display: inline-block;
+  vertical-align: -60%;
+}
+.lumesse-namespaced-prefix-class .lumesse-section-header-1::before {
+  background-image: url('../img/1Icon-Smile_45x45.png');
+}
+.lumesse-namespaced-prefix-class .lumesse-section-header-2::before {
+  background-image: url('../img/2Icon-ThumbUp_45x45.png');
+}
+.lumesse-namespaced-prefix-class .lumesse-section-header-3::before {
+  background-image: url('../img/3Icon-Star_45x45.png');
+}
+.lumesse-namespaced-prefix-class .lumesse-section-header-4::before {
+  background-image: url('../img/4Icon-Letter_45x45.png');
+}
+.lumesse-namespaced-prefix-class .jdesc .sectionBlock {
+  padding: 10px 0px;
+  clear: both;
+}
+.lumesse-namespaced-prefix-class .jdesc p img {
+  display: block;
+  padding: 10px 0px;
+  margin: 0 auto;
+  max-width: 100%;
+}
+.lumesse-namespaced-prefix-class.no_criteria .search-criteria,
+.lumesse-namespaced-prefix-class.no_criteria .number-of-jobs {
+  display: none;
+}
+.lumesse-namespaced-prefix-class .sectionBlock {
+  position: relative;
+  padding-bottom: 0px;
+}
+.lumesse-namespaced-prefix-class .job_agent {
+  padding: 5px 12px;
+  width: 118px;
+  height: 34px;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+}
+.lumesse-namespaced-prefix-class .back_b {
+  left: 143px;
+  width: 160px;
+  text-align: center;
+}
+.lumesse-namespaced-prefix-class.searchAgentPage .back_b {
+  left: 122px;
+  height: 40px;
+  padding: 0;
+  line-height: 40px;
+}
+.lumesse-namespaced-prefix-class .fa.fa-bell-o,
+.lumesse-namespaced-prefix-class .fa.fa-angle-left {
+  padding: 5px;
+}
+.lumesse-namespaced-prefix-class #lumesse-search-agent-btn {
+  display: none;
+}
+.lumesse-namespaced-prefix-class .sectionBlock {
+  position: relative;
+}
+.lumesse-namespaced-prefix-class.searchAgentPage .btn.btn-primary.btn-lg.btn-block {
+  display: none;
+}
+.lumesse-namespaced-prefix-class .back_sag {
+  width: 160px;
+  bottom: 20px;
+  left: 135px;
+  height: 40px;
+  padding-top: 8px;
+}
+.lumesse-namespaced-prefix-class #lumesseJobDetailWidget div[role=navigation] a:first-child {
+  padding: 7px 16px;
+}
+.lumesse-namespaced-prefix-class thead th {
+  min-width: 127px;
+}
+.lumesse-namespaced-prefix-class #lumesseSendJobToAFriendWidget .thumbnail .caption {
+  white-space: pre-wrap;
+  word-wrap: normal;
+  word-break: break-all;
+}
+.lumesse-namespaced-prefix-class #talentSendToAFriendFormLegend {
+  font-weight: bold;
+  color: #78b928;
+  font-size: 34px;
+}
+.lumesse-namespaced-prefix-class .lumesse-job-advert-sections {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.lumesse-namespaced-prefix-class .lumesse-job-advert-section {
+  width: 50%;
+  box-sizing: border-box;
+}
+.lumesse-namespaced-prefix-class .lumesse-job-advert-section:nth-child(odd) {
+  padding-left: 10px;
+}
+.lumesse-namespaced-prefix-class .lumesse-job-advert-section:nth-child(even) {
+  padding-right: 10px;
+}
+.lumesse-namespaced-prefix-class .lumesse-job-advert-section ul,
+.lumesse-namespaced-prefix-class .lumesse-job-advert-section ol {
+  padding-left: 15px;
+}
+.lumesse-namespaced-prefix-class .lumesse-job-advert-section.lumesse-job-advert-section-0 {
+  width: 100%;
+  display: block;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.lumesse-namespaced-prefix-class .lumesse-advert-image-header {
+  padding: 0 0 20px 0;
+}
+
+.lumesse-namespaced-prefix-class .lumesse-advert-image-header-2,
+.lumesse-namespaced-prefix-class #lumesse-jdesc-header2 {
+  display: none;
+}
+
+.lumesse-namespaced-prefix-class .jdesc p img {
+  margin: 0;
+}
+
+@media (max-width: 991px) {
+  .lumesse-namespaced-prefix-class .jdesc .img-responsive.lumesse-image-library {
+    margin-bottom: 10px;
+  }
+  .lumesse-namespaced-prefix-class .job-title a {
+    float: right !important;
+    margin: 0px;
+  }
+  .lumesse-namespaced-prefix-class .select_lang .form-inline .form-group {
+    margin-left: 66px;
+  }
+  .lumesse-namespaced-prefix-class .select_lang .form-inline .form-group select {
+    width: 390px;
+  }
+  .lumesse-namespaced-prefix-class .strapLine {
+    font-size: 23px;
+  }
+  .lumesse-namespaced-prefix-class .dasKannIchBei {
+    font-size: 23px;
+  }
+  .lumesse-namespaced-prefix-class h2.sindSieDas {
+    font-size: 19px;
+  }
+  .lumesse-namespaced-prefix-class h1,
+  .lumesse-namespaced-prefix-class #talentSendToAFriendFormLegend {
+    font-size: 22px;
+  }
+  .lumesse-namespaced-prefix-class .lumesse-section-header-1::before,
+  .lumesse-namespaced-prefix-class .lumesse-section-header-2::before,
+  .lumesse-namespaced-prefix-class .lumesse-section-header-3::before,
+  .lumesse-namespaced-prefix-class .lumesse-section-header-4::before {
+    height: 30px;
+    width: 30px;
+    background-size: 30px;
+    vertical-align: -35%;
+  }
+  .lumesse-namespaced-prefix-class h2.lumesse-section-header {
+    font-size: 19px;
+  }
+}
+.lumesse-namespaced-prefix-class span[data-lumesse-sjtf-insert="jobDescriptionUrl"] {
+  word-break: break-all;
+  display: inline-block;
+}
+@media (max-width: 767px) {
+  .lumesse-namespaced-prefix-class #silk-content {
+    margin-bottom: 120px;
+  }
+  .lumesse-namespaced-prefix-class .job-title a {
+    float: none !important;
+    margin: 15px 0;
+  }
+  .lumesse-namespaced-prefix-class thead {
+    display: none;
+  }
+  .lumesse-namespaced-prefix-class tr {
+    width: 100%;
+  }
+  .lumesse-namespaced-prefix-class th,
+  .lumesse-namespaced-prefix-class td {
+    float: left;
+    width: 100%;
+    height: auto;
+    min-height: 34px;
+  }
+  .lumesse-namespaced-prefix-class td:nth-child(odd),
+  .lumesse-namespaced-prefix-class th {
+    background-color: #eee;
+  }
+  .lumesse-namespaced-prefix-class td:last-child {
+    border-bottom: 1px solid #333;
+  }
+  .lumesse-namespaced-prefix-class tr:last-child td:last-child {
+    border-bottom: 1px solid #ddd;
+  }
+  .lumesse-namespaced-prefix-class .table-scroll-wrap {
+    overflow-x: auto;
+  }
+  .lumesse-namespaced-prefix-class .lumesse-jobs-list table {
+    margin-left: 0;
+  }
+  .lumesse-namespaced-prefix-class.listPage .job_agent {
+    width: calc(100% - 30px);
+    bottom: -54px;
+    left: 0;
+    margin-left: 0;
+    height: 40px;
+    padding: 0;
+    line-height: 40px;
+  }
+  .lumesse-namespaced-prefix-class.listPage .job_agent.back_b {
+    left: 0;
+    margin-left: 0;
+    width: calc(100% - 30px);
+    bottom: -108px;
+  }
+  .lumesse-namespaced-prefix-class .job-list-pagination.pagination-wrapper {
+    width: 100%;
+    float: right;
+    margin-right: 15px;
+  }
+  .lumesse-namespaced-prefix-class.searchAgentPage .back_b {
+    bottom: -55px;
+    width: calc(100% - 30px);
+    left: 15px;
+  }
+  .lumesse-namespaced-prefix-class .btn.btn-primary.btn-lg.search-agent-submit-btn {
+    width: 100%;
+  }
+  .lumesse-namespaced-prefix-class .lumesse-job-advert-sections {
+    display: block;
+  }
+  .lumesse-namespaced-prefix-class .lumesse-job-advert-section,
+  .lumesse-namespaced-prefix-class .lumesse-job-advert-section:nth-child(odd),
+  .lumesse-namespaced-prefix-class .lumesse-job-advert-section:nth-child(even) {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
